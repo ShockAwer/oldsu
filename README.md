@@ -24,7 +24,7 @@ Redirect `osu.ppy.sh` to your server's IP using the hosts file.
 ## Other information
 
 ### User account storage
-All user passwords are hashed using MD5. Very secure, yes!
+All user passwords are hashed using MD5. Very secure, yes! /s
 
 ### TO-DO
 * Validation and security
